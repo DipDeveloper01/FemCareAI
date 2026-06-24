@@ -22,3 +22,16 @@ Thumbs.db
 
 logs/
 *.log
+
+__pycache__/
+*.pyc
+*.pyo
+
+backend/logs/
+backend/tests/__pycache__/
+
+venv/
+vector_db/
+
+*_backup.py
+*backup*.jsx
