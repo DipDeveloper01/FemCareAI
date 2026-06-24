@@ -1,0 +1,68 @@
+PCOS:
+Symptoms:
+- irregular periods
+- acne
+- weight gain
+- hair loss
+- missed periods
+
+Description:
+A hormonal disorder that commonly affects women of reproductive age.
+
+--------------------------------------------------
+
+Endometriosis:
+Symptoms:
+- pelvic pain
+- painful periods
+- pain during intercourse
+- heavy menstrual bleeding
+
+Description:
+A condition where tissue similar to the uterine lining grows outside the uterus.
+
+--------------------------------------------------
+
+Uterine Fibroids:
+Symptoms:
+- heavy bleeding
+- pelvic pressure
+- frequent urination
+- lower back pain
+
+Description:
+Non-cancerous growths in the uterus.
+
+--------------------------------------------------
+
+Ovarian Cysts:
+Symptoms:
+- pelvic pain
+- bloating
+- abdominal discomfort
+
+Description:
+Fluid-filled sacs that develop on the ovaries.
+
+--------------------------------------------------
+
+Pregnancy:
+Symptoms:
+- missed period
+- nausea
+- breast tenderness
+- fatigue
+
+Description:
+The state of carrying a developing embryo or fetus.
+
+
+Breast Pain Syndrome:
+Symptoms:
+- mastalgia
+- breast pain
+- nipple tenderness
+- hard nipples
+
+Description:
+Breast pain or nipple tenderness that may be associated with hormonal changes.
