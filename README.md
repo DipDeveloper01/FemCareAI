@@ -1,8 +1,8 @@
-# 🌸 FemCare AI
+🌸 FemCare AI
 
 An AI-powered Women's Health Assistant built using FastAPI, React, Tailwind CSS, and an Agent-Based Architecture to provide symptom analysis, disease prediction, risk assessment, and personalized recommendations.
 
-## 🚀 Overview
+🚀 Overview
 
 FemCare AI helps users describe symptoms in natural language and receive intelligent health insights through a multi-agent system. The platform analyzes symptoms, predicts possible conditions, assesses risk levels, generates recommendations, and asks relevant follow-up questions to improve understanding of the user's situation.
 
